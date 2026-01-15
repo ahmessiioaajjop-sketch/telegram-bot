@@ -1,0 +1,7 @@
+requests
+urllib3
+certifi
+python-dotenv
+pyTelegramBotAPI
+python-telegram-bot
+aiogram
